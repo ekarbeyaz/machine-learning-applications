@@ -34,6 +34,6 @@ This application is not completed. It still has some errors in it. I tried my be
 6. Move into the next tab. Here you can split the dataset using Hold-Out or K-Fold.  
 7. In the classification tab, you can select an algorithm and train the algorithm. After the training process, the scores are will be printed below. Also, you can use buttons to view the confusion matrix, predicted and true values, and roc curve.  
 8. Ensemble tab you can select an algorithm and train it. Also, you can view scores and graphs after the training process.  
-9. Search tab is the same as the previous step you can select an algorithm and train it and view scores and graphs.  
+9. Search tab is the same as the previous step you can select an algorithm and train it and view scores and graphs.
 
 
